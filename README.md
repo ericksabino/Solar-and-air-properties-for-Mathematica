@@ -90,3 +90,7 @@ That's all. Now you are able to use functions of this package.
 #### solarRadiationOnInclinedSurfaceLatNorth
 >Calculates the solar radiation on a inclined surface for Latitude North and Azimute 0 or 180 | use as follows [radglobhorizontal_,day number_,hora_,GMT_,latitude_,longitude_,inclination_,al_]
 >
+
+## Example
+![alt text](https://github.com/ericksabino/Solar-calculations-and-air-properties-for-Mathematica/blob/main/example.JPG "Logo Title Text 1")
+
